@@ -1,20 +1,33 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        vector<int> arr(3, 0);
-        int l = 0;
+        int n = s.size();
         int cnt = 0;
+        int j = 0;
 
-        int n = s.length();
+        int a = 0, b = 0,  c = 0;
 
-        for (int i = 0; i < n; i++) {
-            arr[s[i] - 'a']++;
+        for(int i = 0; i < n; i++)
+        {
+            if(s[i] == 'a')
+            a++;
 
-            while (arr[0] > 0 && arr[1] > 0 && arr[2] > 0) {
+            else if(s[i] == 'b')
+            b++;
+
+            else c++;
+
+            while(a > 0 && b > 0 && c > 0)
+            {
                 cnt += (n - i);
+                if(s[j] == 'a')
+                a--;
 
-                arr[s[l] - 'a']--;
-                l++;
+                else if(s[j] == 'b')
+                b--;
+
+                else c--;
+                j++;
             }
         }
         return cnt;
