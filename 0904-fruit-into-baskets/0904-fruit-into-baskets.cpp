@@ -7,7 +7,7 @@ public:
         while (r < n) {
             mpp[fruits[r]]++;
 
-            while (mpp.size() > 2) {
+            if (mpp.size() > 2) {
                 mpp[fruits[l]]--;
 
                 if (mpp[fruits[l]] == 0) {
@@ -16,12 +16,11 @@ public:
 
                 l++;
             }
-        if (mpp.size() <= 2) {
-            maxlen = max(maxlen, r - l + 1);
+            if (mpp.size() <= 2) {
+                maxlen = max(maxlen, r - l + 1);
+            }
+            r++;
         }
-        r++;
+        return maxlen;
     }
-    return maxlen;
-}
-}
-;
+};
