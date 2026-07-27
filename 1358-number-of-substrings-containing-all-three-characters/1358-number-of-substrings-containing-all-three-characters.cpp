@@ -1,35 +1,22 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n = s.size();
+
+        vector<int> lastSeen(3, -1);
         int cnt = 0;
-        int j = 0;
 
-        int a = 0, b = 0,  c = 0;
+        for (int i = 0; i < s.size(); i++) {
 
-        for(int i = 0; i < n; i++)
-        {
-            if(s[i] == 'a')
-            a++;
+            lastSeen[s[i] - 'a'] = i;
 
-            else if(s[i] == 'b')
-            b++;
+            if (lastSeen[0] != -1 &&
+                lastSeen[1] != -1 &&
+                lastSeen[2] != -1) {
 
-            else c++;
-
-            while(a > 0 && b > 0 && c > 0)
-            {
-                cnt += (n - i);
-                if(s[j] == 'a')
-                a--;
-
-                else if(s[j] == 'b')
-                b--;
-
-                else c--;
-                j++;
+                cnt += min({lastSeen[0], lastSeen[1], lastSeen[2]}) + 1;
             }
         }
+
         return cnt;
     }
 };
