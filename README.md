@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -294,18 +298,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
