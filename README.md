@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1563-stone-game-v) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
