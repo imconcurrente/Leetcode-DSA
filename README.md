@@ -329,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
