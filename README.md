@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
