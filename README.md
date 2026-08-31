@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
