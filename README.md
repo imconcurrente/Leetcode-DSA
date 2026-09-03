@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/imconcurrente/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 ## Segment Tree
 |  |
