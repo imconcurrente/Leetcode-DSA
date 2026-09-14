@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1406-stone-game-iii) |
@@ -416,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
