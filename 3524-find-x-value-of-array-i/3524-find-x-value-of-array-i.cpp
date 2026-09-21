@@ -2,23 +2,24 @@ class Solution {
 public:
     vector<long long> resultArray(vector<int>& nums, int k) {
         vector<long long> res(k);
-        int hash[5] = {0};
+        vector<long long> dp(k);
 
-        for (auto& num : nums) {
-            num %= k;
-            int curr[5] = {0}; //current freq.
+        for(int num : nums){
+            vector<long long> curr(k); // current freq
+            int rem = num % k;
 
-            curr[num] = 1;
+            curr[rem]++;
 
-            for (int x = 0; x < k; x++)
-                curr[x * num % k] += hash[x];
 
-            for (int x = 0; x < k; x++) {
-                hash[x] = curr[x];
-                res[x] += hash[x];
+            for(int j = 0; j < k; j++){
+                curr[j * rem % k] += dp[j];
             }
-        }
 
+            for(int j = 0; j < k; j++){
+                res[j] += curr[j];
+            }
+            dp = curr;
+        }
         return res;
     }
 };
