@@ -1,36 +1,52 @@
+//Optimal with T.C -> O(1) and S.C-> O(n), but tricky to understand
+
 class MinStack {
 public:
-    stack<pair<int, int>> st;
+    stack<long long> st;
+    long long mini = LLONG_MAX;
+
     MinStack() {
     }
-    
+
     void push(int value) {
-        if(st.empty()){
-            st.push({value, value});    
+        long long val = value;
+
+        if (st.empty()) {
+            mini = val;
+            st.push(val);
         }
-        else{
-            st.push({value, min(value, st.top().second)});
+        else if (val < mini) {
+            st.push(2 * val - mini);
+            mini = val;
+        }
+        else {
+            st.push(val);
         }
     }
-    
+
     void pop() {
-            st.pop();
+        if (st.empty()) return;
+
+        long long x = st.top();
+        st.pop();
+
+        if (x < mini) {
+            mini = 2 * mini - x;
+        }
     }
-    
+
     int top() {
-        return st.top().first;
+        if (st.empty()) return -1;
+
+        long long x = st.top();
+
+        if (x < mini)
+            return (int)mini;
+
+        return (int)x;
     }
-    
+
     int getMin() {
-        return st.top().second;
+        return (int)mini;
     }
 };
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(value);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
