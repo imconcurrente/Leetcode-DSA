@@ -1,52 +1,34 @@
-//Optimal with T.C -> O(1) and S.C-> O(n), but tricky to understand
-
+// Best optimal approach 
 class MinStack {
 public:
-    stack<long long> st;
-    long long mini = LLONG_MAX;
+    stack<int> st;
+    stack<int> mini;
 
     MinStack() {
+        
     }
-
+    
     void push(int value) {
-        long long val = value;
+        st.push(value);
 
-        if (st.empty()) {
-            mini = val;
-            st.push(val);
-        }
-        else if (val < mini) {
-            st.push(2 * val - mini);
-            mini = val;
+        if (mini.empty()) {
+            mini.push(value);
         }
         else {
-            st.push(val);
+             mini.push(min(value, mini.top()));
         }
     }
-
+    
     void pop() {
-        if (st.empty()) return;
-
-        long long x = st.top();
         st.pop();
-
-        if (x < mini) {
-            mini = 2 * mini - x;
-        }
+        mini.pop();
     }
-
+    
     int top() {
-        if (st.empty()) return -1;
-
-        long long x = st.top();
-
-        if (x < mini)
-            return (int)mini;
-
-        return (int)x;
+        return st.top();
     }
-
+    
     int getMin() {
-        return (int)mini;
+        return mini.top();
     }
 };
