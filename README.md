@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
