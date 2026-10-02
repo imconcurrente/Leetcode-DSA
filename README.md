@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
