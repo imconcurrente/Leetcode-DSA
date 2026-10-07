@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -501,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
