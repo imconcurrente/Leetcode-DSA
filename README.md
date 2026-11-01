@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/imconcurrente/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/imconcurrente/Leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imconcurrente/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Floyd's Cycle Finding Algorithm
